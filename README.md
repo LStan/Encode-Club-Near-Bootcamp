@@ -1,0 +1,1 @@
+[Chat on the testnet](https://test.near.org/near-bootcamp.testnet/widget/Chat)
